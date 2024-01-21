@@ -9,3 +9,4 @@ This project is based upon the original article listed below. It provides a mean
 Download here https://dotnet.microsoft.com/en-us/download
 
 # My results
+<img src="https://github.com/itaylorm/LinqPerformance/blob/main/BenchmarkResults.png"/>
