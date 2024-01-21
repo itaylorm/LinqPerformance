@@ -3,10 +3,13 @@ This project is based upon the original article listed below. It provides a mean
 [Original Article]([https://website-name.com](https://www.youtube.com/watch?v=zCKwlgtVLnQ&t=1s)https://www.youtube.com/watch?v=zCKwlgtVLnQ&t=1s)
 
 # Setup
-* Visual 2022 
+* Visual 2022
+* BenchmarkDotNet nuget package
 * .NET SDK installed for each version you wish to test
 ## In my case I needed SDK for .net6
 Download here https://dotnet.microsoft.com/en-us/download
 
+# BenchmarkDotNet Overview Video
+[https://youtu.be/Wa3sdKGp3wE](https://youtu.be/Wa3sdKGp3wE)
 # My results
 <img src="https://github.com/itaylorm/LinqPerformance/blob/main/BenchmarkResults.png"/>
